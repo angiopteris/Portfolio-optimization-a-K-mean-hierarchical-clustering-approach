@@ -1,6 +1,8 @@
 # Bootcamp_repo_portfolio
 Bootcamp project portfolio optimization
 
+See jupyter notebook attached for full project
+
 Project design and created in 3 days during data science course.
 Objective : Portfolio optimization using clustering solutions (Hierarchical Clustering, K-Mean) and a variance optimization process (Markovitz 1952).
 Limitations: Variance optimization process are hit by exponentially increasing bias.
@@ -18,6 +20,4 @@ Step 5: Results analysis, benchmark comparison
 Sources:
 https://medium.com/@saadahmed387/machine-learning-for-stock-clustering-using-k-means-algorithm-126bc1ace4e1
 https://pythonforfinance.net/2018/02/08/stock-clusters-using-k-means-algorithm-in-python/
-
-![scatter plot, distribution returns timely based](https://user-images.githubusercontent.com/49072192/74741111-83355200-525c-11ea-9206-1fc16c415e15.JPG)
 
