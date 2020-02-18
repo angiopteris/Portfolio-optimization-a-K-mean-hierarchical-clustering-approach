@@ -14,3 +14,7 @@ Step 3: Creation of equally weighted portfolio among clusters (1/N, DeMiguel, Ga
 Step 4: Markovitz optimization process among those 5 clusters to reduce estimatino bias (Maximum sharpe ratio retained)
 
 Step 5: Results analysis, benchmark comparison
+
+Sources:
+https://medium.com/@saadahmed387/machine-learning-for-stock-clustering-using-k-means-algorithm-126bc1ace4e1
+https://pythonforfinance.net/2018/02/08/stock-clusters-using-k-means-algorithm-in-python/
