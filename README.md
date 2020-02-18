@@ -1,7 +1,7 @@
 # Bootcamp_repo_portfolio
 Bootcamp project portfolio optimization
 
-See jupyter notebook attached for full project
+# See jupyter notebook attached for full project
 
 Project design and created in 3 days during data science course.
 Objective : Portfolio optimization using clustering solutions (Hierarchical Clustering, K-Mean) and a variance optimization process (Markovitz 1952).
