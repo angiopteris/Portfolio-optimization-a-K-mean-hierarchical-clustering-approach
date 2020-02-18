@@ -19,4 +19,5 @@ Sources:
 https://medium.com/@saadahmed387/machine-learning-for-stock-clustering-using-k-means-algorithm-126bc1ace4e1
 https://pythonforfinance.net/2018/02/08/stock-clusters-using-k-means-algorithm-in-python/
 
-![histogram return cluster](https://user-images.githubusercontent.com/49072192/74741110-829cbb80-525c-11ea-83b1-eab3a075cb22.JPG)
+![scatter plot, distribution returns timely based](https://user-images.githubusercontent.com/49072192/74741111-83355200-525c-11ea-9206-1fc16c415e15.JPG)
+
